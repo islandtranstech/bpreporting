@@ -1,0 +1,19 @@
+\\vmware-host\shared folders\documents\visual studio 2012\Projects\AutomateBPReporting\AutomateBPReporting\bin\Debug\AutomateBPReporting.exe.config
+\\vmware-host\shared folders\documents\visual studio 2012\Projects\AutomateBPReporting\AutomateBPReporting\bin\Debug\AutomateBPReporting.exe
+\\vmware-host\shared folders\documents\visual studio 2012\Projects\AutomateBPReporting\AutomateBPReporting\bin\Debug\AutomateBPReporting.pdb
+\\vmware-host\shared folders\documents\visual studio 2012\Projects\AutomateBPReporting\AutomateBPReporting\obj\Debug\AutomateBPReporting.exe
+\\vmware-host\shared folders\documents\visual studio 2012\Projects\AutomateBPReporting\AutomateBPReporting\obj\Debug\AutomateBPReporting.pdb
+\\vmware-host\shared folders\documents\visual studio 2012\Projects\AutomateBPReporting\AutomateBPReporting\obj\Debug\Interop.AccWizObjects.dll
+\\vmware-host\shared folders\documents\visual studio 2012\Projects\AutomateBPReporting\AutomateBPReporting\obj\Debug\AutomateBPReporting.csproj.ResolveComReference.cache
+\\vmware-host\shared folders\documents\visual studio 2012\Projects\AutomateBPReporting\AutomateBPReporting\bin\Debug\Interop.AccWizObjects.dll
+\\vmware-host\shared folders\documents\visual studio 2012\Projects\AutomateBPReporting\AutomateBPReporting\bin\Debug\ISTCData.mdb
+\\vmware-host\Shared Folders\Desktop\AutomateBPReporting\AutomateBPReporting\bin\Debug\AutomateBPReporting.exe.config
+\\vmware-host\Shared Folders\Desktop\AutomateBPReporting\AutomateBPReporting\obj\Debug\Interop.AccWizObjects.dll
+\\vmware-host\Shared Folders\Desktop\AutomateBPReporting\AutomateBPReporting\obj\Debug\AutomateBPReporting.csproj.ResolveComReference.cache
+\\vmware-host\Shared Folders\Desktop\AutomateBPReporting\AutomateBPReporting\obj\Debug\AutomateBPReporting.exe
+\\vmware-host\Shared Folders\Desktop\AutomateBPReporting\AutomateBPReporting\obj\Debug\AutomateBPReporting.pdb
+\\vmware-host\Shared Folders\Desktop\AutomateBPReporting\AutomateBPReporting\bin\Debug\ISTCData.mdb
+\\vmware-host\Shared Folders\Desktop\AutomateBPReporting\AutomateBPReporting\bin\Debug\AutomateBPReporting.exe
+\\vmware-host\Shared Folders\Desktop\AutomateBPReporting\AutomateBPReporting\bin\Debug\AutomateBPReporting.pdb
+\\vmware-host\Shared Folders\Desktop\AutomateBPReporting\AutomateBPReporting\bin\Debug\Interop.AccWizObjects.dll
+\\vmware-host\Shared Folders\Desktop\AutomateBPReporting\AutomateBPReporting\bin\Debug\Microsoft.Office.Interop.Excel.dll
