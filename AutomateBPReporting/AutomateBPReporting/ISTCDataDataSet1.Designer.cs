@@ -7104,7 +7104,8 @@ namespace AutomateBPReporting.ISTCDataDataSet1TableAdapters {
             this._commandCollection[1].Connection = this.Connection;
             this._commandCollection[1].CommandText = "SELECT BillingCode, ArrivedAtRackTime, LeftRackTime, ArrivedAtCustomerTime, Final" +
                 "izedDeliveryTime, SecondOrderNo, OrderNo, BillOfLadingId, ScheduleDate, BOLStatu" +
-                "s\r\nFROM  BillOfLading\r\nWHERE (BillingCode = ?) AND (ScheduleDate = ?)";
+                "s\r\nFROM  BillOfLading\r\nWHERE (BillingCode = ?) AND (ScheduleDate = ?)\r\nORDER BY " +
+                "BOLStatus";
             this._commandCollection[1].CommandType = global::System.Data.CommandType.Text;
             this._commandCollection[1].Parameters.Add(new global::System.Data.OleDb.OleDbParameter("BillingCode", global::System.Data.OleDb.OleDbType.Integer, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "BillingCode", global::System.Data.DataRowVersion.Current, false, null));
             this._commandCollection[1].Parameters.Add(new global::System.Data.OleDb.OleDbParameter("ScheduleDate", global::System.Data.OleDb.OleDbType.Date, 0, global::System.Data.ParameterDirection.Input, ((byte)(0)), ((byte)(0)), "ScheduleDate", global::System.Data.DataRowVersion.Current, false, null));

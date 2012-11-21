@@ -148,7 +148,6 @@ namespace AutomateBPReporting
 
 
                 string path = eh.SaveAs();
-
                 Attachment attach = new Attachment(path);
 
                 var fromAddress = new MailAddress("islandtranstech@gmail.com", "ITC Tech");
