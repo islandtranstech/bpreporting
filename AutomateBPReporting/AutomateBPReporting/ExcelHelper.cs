@@ -38,7 +38,6 @@ namespace AutomateBPReporting
 
             excelWorkbook.SaveAs(path);
             excelWorkbook.Close();
-            //excelApp.SaveWorkspace(path);
 
             return path;
         }
@@ -46,7 +45,9 @@ namespace AutomateBPReporting
         public void WriteWorkSheet(List<List<object>> data, DateTime reportDate, string terminal)
         {
             Excel.Worksheet sheet = (Excel.Worksheet) excelWorkbook.Worksheets.get_Item(terminal); 
+            
             // stamp report date
+           
             sheet.Cells[2, 6] = reportDate.ToShortDateString();
             this.reportDate = reportDate;
 
@@ -62,10 +63,6 @@ namespace AutomateBPReporting
                 }
                 startRow++;
             }
-            
         }
-
-        
-      
     }
 }

@@ -17,3 +17,12 @@
 \\vmware-host\Shared Folders\Desktop\AutomateBPReporting\AutomateBPReporting\bin\Debug\AutomateBPReporting.pdb
 \\vmware-host\Shared Folders\Desktop\AutomateBPReporting\AutomateBPReporting\bin\Debug\Interop.AccWizObjects.dll
 \\vmware-host\Shared Folders\Desktop\AutomateBPReporting\AutomateBPReporting\bin\Debug\Microsoft.Office.Interop.Excel.dll
+Z:\fioretti On My Mac\code\apps\bpreporting\AutomateBPReporting\AutomateBPReporting\bin\Debug\AutomateBPReporting.exe.config
+Z:\fioretti On My Mac\code\apps\bpreporting\AutomateBPReporting\AutomateBPReporting\bin\Debug\AutomateBPReporting.exe
+Z:\fioretti On My Mac\code\apps\bpreporting\AutomateBPReporting\AutomateBPReporting\bin\Debug\AutomateBPReporting.pdb
+Z:\fioretti On My Mac\code\apps\bpreporting\AutomateBPReporting\AutomateBPReporting\bin\Debug\Microsoft.Office.Interop.Excel.dll
+Z:\fioretti On My Mac\code\apps\bpreporting\AutomateBPReporting\AutomateBPReporting\bin\Debug\Interop.AccWizObjects.dll
+Z:\fioretti On My Mac\code\apps\bpreporting\AutomateBPReporting\AutomateBPReporting\obj\Debug\Interop.AccWizObjects.dll
+Z:\fioretti On My Mac\code\apps\bpreporting\AutomateBPReporting\AutomateBPReporting\obj\Debug\AutomateBPReporting.csproj.ResolveComReference.cache
+Z:\fioretti On My Mac\code\apps\bpreporting\AutomateBPReporting\AutomateBPReporting\obj\Debug\AutomateBPReporting.exe
+Z:\fioretti On My Mac\code\apps\bpreporting\AutomateBPReporting\AutomateBPReporting\obj\Debug\AutomateBPReporting.pdb

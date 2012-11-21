@@ -135,6 +135,17 @@ namespace AutomateBPReporting
                 ISTCDataDataSet1.BillOfLadingDataTable table = bol.GetDataBPReport(25, reportDate);
                 List<List<object>> writeRows = ExtractData(table);
                 eh.WriteWorkSheet(writeRows, reportDate, "Babylon");
+                
+                // nj
+                table = bol.GetDataBPReport(59, reportDate);
+                writeRows = ExtractData(table);
+                eh.WriteWorkSheet(writeRows, reportDate, "Jersey");
+
+                // bk
+                table = bol.GetDataBPReport(60, reportDate);
+                writeRows = ExtractData(table);
+                eh.WriteWorkSheet(writeRows, reportDate, "Brooklyn");
+
 
                 string path = eh.SaveAs();
 
@@ -145,6 +156,10 @@ namespace AutomateBPReporting
                 const string fromPassword = "azaz09**";
                 const string subject = "BP Email";
                 const string body = "See Attached";
+
+
+                TextReader sr = new StreamReader("d:/Reports/emails.txt");
+                string emailTo = sr.ReadLine();
 
                 var smtp = new SmtpClient
                 {
@@ -163,6 +178,7 @@ namespace AutomateBPReporting
                 })
                 {
                     message.Attachments.Add(attach);
+                    message.To.Add(emailTo);
                     smtp.Send(message);
                 }
             }
